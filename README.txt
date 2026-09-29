@@ -4,6 +4,10 @@ https://github.com/wzxjohn/marukotoolbox
 使用.Net 4.8 构建
 理论上支持win7，但工具箱带的 9.0ffmpeg可能不支持
 
+更新：
+为了缩小工具包体积，ffmpeg进行了重编译，版本还是9.0.2，
+完全去除了硬件加速和其他没用上的编码器
+
 新增
 视频编码
 svt-av1 通过ffmpeg
